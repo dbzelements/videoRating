@@ -1,0 +1,14 @@
+C:\Users\Donovan Jamieson\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.deps.json
+C:\Users\Donovan Jamieson\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.runtimeconfig.json
+C:\Users\Donovan Jamieson\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.runtimeconfig.dev.json
+C:\Users\Donovan Jamieson\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.dll
+C:\Users\Donovan Jamieson\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.pdb
+C:\Users\Donovan Jamieson\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\Donovan Jamieson\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorAssemblyInfo.cache
+C:\Users\Donovan Jamieson\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorAssemblyInfo.cs
+C:\Users\Donovan Jamieson\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.AssemblyInfoInputs.cache
+C:\Users\Donovan Jamieson\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.AssemblyInfo.cs
+C:\Users\Donovan Jamieson\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorTargetAssemblyInfo.cache
+C:\Users\Donovan Jamieson\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.dll
+C:\Users\Donovan Jamieson\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.pdb
+C:\Users\Donovan Jamieson\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.csprojAssemblyReference.cache
